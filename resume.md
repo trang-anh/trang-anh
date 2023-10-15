@@ -1,3 +1,5 @@
 Name: Anh Nguyen
 Pronouns: she/her
-Education: First year Computer Science student at Northeastern University
+Education: Northeastern University
+Major: Computer Science
+Expected graduation date: May 2027
