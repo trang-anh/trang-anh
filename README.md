@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on CS1200 work.
 - 🌱 I’m currently learning Computer Science
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on my Fundies HW.
 - 🤔 I’m looking for help with Computer Science.
 - 💬 Ask me about anything.
-- 📫 How to reach me: ...
+- 📫 How to reach me: nguyen.anh23@northeastern.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm doing this 4:38AM. 
 -->
