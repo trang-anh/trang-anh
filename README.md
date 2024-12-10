@@ -1,4 +1,4 @@
-<!--
+
 **trang-anh/trang-anh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -10,4 +10,4 @@
 - 📫 How to reach me: nguyen.anh23@northeastern.edu
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm doing this 4:38AM. 
--->
+
