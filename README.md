@@ -1,5 +1,5 @@
 # Hi! :woman_technologist::wind_chime::potted_plant::love_letter::star:
-I'm **Anh**, a CS student at Northeastern University from Vietnam :vietnam:.
+## I'm **Anh**, a CS student at Northeastern University from Vietnam :vietnam:.
 
 - I am based in Boston 📬.
 - I am passionate about machine learning, AI and software development.
