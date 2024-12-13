@@ -6,6 +6,8 @@ I'm **Anh**, a CS student at Northeastern University from Vietnam :vietnam:.
 - Feel free to reach out to me at nguyen.anh23@northeastern.edu !
 ☆⋆｡𖦹°‧★˚ ༘ ♡ ⋆｡˚ ❀
 
+## Skills
+
 
 
 
