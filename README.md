@@ -4,7 +4,7 @@
 - I am based in Boston.
 - I am passionate about machine learning, AI and software development.
 - I am learning JavaScript by building my website.
-- Feel free to reach out to me at nguyen.anh23@northeastern.edu or connect with me on <a href="https://www.linkedin.com/in/tranganh-nguyen/">LinkedIn</a>!
+- Feel free to reach out to me at nguyen.anh23@northeastern.edu or connect with me on <a href="https://www.linkedin.com/in/tranganh-nguyen/" target="_blank">LinkedIn</a>!
 ☆⋆｡𖦹°‧★˚ ༘ ♡ ⋆｡˚ ❀
 
 ### Skills
