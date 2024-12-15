@@ -1,10 +1,10 @@
 # Hi! :woman_technologist::wind_chime::potted_plant::love_letter::star:
 ## I'm **Anh**, a CS student at Northeastern University from Vietnam :vietnam:.
 
-- I am based in Boston.
-- I am passionate about AI/machine learning, and software development.
-- I am learning JavaScript by building my website.
-- Feel free to reach out to me at nguyen.anh23@northeastern.edu or connect with me on <a href="https://www.linkedin.com/in/tranganh-nguyen/" target="_blank">LinkedIn</a>!
+- 📍 I am based in Boston.
+- 🫀 I am passionate about AI/machine learning, and software development.
+- 📝 I am learning JavaScript by building my website.
+- 📬 Feel free to reach out to me at nguyen.anh23@northeastern.edu or connect with me on <a href="https://www.linkedin.com/in/tranganh-nguyen/" target="_blank">LinkedIn</a>!
 ☆⋆｡𖦹°‧★˚ ༘ ♡ ⋆｡˚ ❀
 
 ### Skills
