@@ -1,8 +1,8 @@
-# Hi! :woman_technologist::star:
+# Hi! 
 ## I'm **Anh**, a CS student with a concentration in AI at Northeastern University.
 
-- 📍 based in Boston
-- 🫀 I'm passionate about AI/machine learning, and software development.
+- 📍 Boston
+- 🫀 I'm passionate about machine learning, and software development.
 - 📬 Feel free to reach out to me at nguyen.anh23@northeastern.edu or connect with me on <a href="https://www.linkedin.com/in/tranganh-nguyen/" target="_blank">LinkedIn</a>!
 ☆
 ### Skills
